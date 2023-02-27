@@ -92,7 +92,7 @@ body {
 .fixed-background {
     --bg-image:
         /* --bg-image: url("https://picsum.photos/2016/1642?image=10"); */
-        --bg-image: url('./pastel.jpg.');
+        --bg-image: url('./images/pastel.jpg.');
     --start-color: #09f;
     --stop-color: #90f;
     background-position: center;
@@ -116,20 +116,20 @@ body {
 .img-1 {
     --start-color: #00deff;
     --stop-color: #ff8c00;
-    --bg-image: url("./phone-mockup.jpg");
+    --bg-image: url("./images/phone-mockup.jpg");
 }
 
 .img-2 {
     --start-color: #111340;
     --stop-color: #4800ff;
-    --bg-image: url("./cuisinier.jpg");
+    --bg-image: url("./images/cuisinier.jpg");
 }
 
 .img-3 {
     --start-color: #7c87a8;
     --stop-color: #ff0028;
     /* --bg-image: url("https://picsum.photos/2016/1642?image=30"); */
-    --bg-image: url('./soudeur.jpg');
+    --bg-image: url('./images/soudeur.jpg');
 
 }
 
@@ -137,7 +137,7 @@ body {
     --start-color: #84a87c;
     --stop-color: #1b6571;
     /* --bg-image: url("https://picsum.photos/2016/1642?image=40"); */
-    --bg-image: url('./dev.jpg');
+    --bg-image: url('./images/dev.jpg');
 
 }
 
@@ -145,14 +145,14 @@ body {
     --start-color: #5d4012;
     --stop-color: #5d912a;
     /* --bg-image: url("https://picsum.photos/2016/1642?image=50"); */
-    --bg-image: url('./team.jpg');
+    --bg-image: url('./images/team.jpg');
 }
 
 .img-6 {
     --start-color: #5d4012;
     --stop-color: #5d912a;
     /* --bg-image: url("https://picsum.photos/2016/1642?image=50"); */
-    --bg-image: url('./mur.jpg');
+    --bg-image: url('./images/mur.jpg');
 }
 
 .phone {
